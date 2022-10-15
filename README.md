@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Avretheking
 - 👀 I’m interested in Nature
 - 🌱 I’m currently learning Full Stack Web Develpoment
-- 💞️ I’m looking to collaborate on Anamika
+- 💞️ I’m looking to collaborate on A*****a
 - 📫 How to reach me Email me :- navneetsohal80@gmail.com
   🫠
 <!---
